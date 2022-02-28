@@ -1,0 +1,32 @@
+body {
+	font-family: Georgia;
+	font-size: 16px;
+	margin: 0 auto;
+	max-width: 80%;
+	line-height: 1.5;
+	padding-top: 32px;
+	padding-bottom: 32px;
+}
+
+.main h1 {
+	text-align: center;
+}
+
+.main__image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
+
+.footer {
+  height: 50px;
+  margin-top: -50px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+/* <i class="fa fa-chevron-circle-left" aria-hidden="true"></i>  left */
+/* <i class="fa fa-chevron-circle-right" aria-hidden="true"></i> right *
